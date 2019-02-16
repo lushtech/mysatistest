@@ -1,0 +1,12 @@
+{
+    "name": "lushtech/mysatistest",
+    "authors": [
+        {
+            "name": "lushetecg",
+            "email": "lushatech@163.com"
+        }
+    ],
+    "require":{
+        "monolog/monolog":"1.0.*"
+    }
+}
